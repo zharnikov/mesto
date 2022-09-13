@@ -1,0 +1,35 @@
+.profile__button-edit {
+    width: 1.88vw;
+    height: 1.88vw;
+    margin: 0;
+    margin-left: 1.41vw;
+    margin-top: 2.89vw;
+    border: 0.08vw solid #FFFFFF;
+    background-image: url(./pencil.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    padding: 0.55vw;
+    background-size: 0.78vw;
+    cursor: pointer;
+}
+
+.profile__button-edit:hover {
+    opacity: 0.5;
+}
+
+@media (max-width: 500px) {
+
+    .profile__button-edit {
+        width: 18px;
+        height: 18px;
+        border: 1px solid #FFFFFF;
+        padding: 5.25px;
+        background-size: 7.5px;
+        margin: 0;
+        position: absolute;
+        top: 52.2%;
+        left: 86.5%;
+    }
+
+}

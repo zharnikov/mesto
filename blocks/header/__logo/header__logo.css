@@ -1,0 +1,13 @@
+.logo {
+    max-width: 11.09vw;
+    margin-bottom: 3.20vw;
+}
+
+@media (max-width: 500px) {
+
+    .logo {
+        max-width: 103.74px;
+        margin-left: 27px;
+    }
+
+}

@@ -1,0 +1,17 @@
+.element__caption {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 1.95vw 1.17vw 2.42vw 1.64vw;
+    border-radius: 0 0 10px 10px;
+}
+
+@media (max-width: 845px) {
+
+    .element__caption {
+        padding: 25px 15px 31px 21px;
+    }
+
+}
