@@ -1,16 +1,17 @@
 .footer__copyright {
-    font-weight: 400;
-    font-size: 1.41vw;
-    line-height: 1.72vw;
-    color: #545454;
+  margin: 0;
+  font-weight: 400;
+  font-size: 1.41vw;
+  line-height: 1.72vw;
+  color: #545454;
 }
 
 @media (max-width: 500px) {
 
-    .footer__copyright {
-        font-size: 14px;
-        line-height: 16.94px;
-        padding-left: 19px;
-    }
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 16.94px;
+    padding-left: 19px;
+  }
 
 }

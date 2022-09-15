@@ -1,17 +1,20 @@
 .profile__caption {
-    font-weight: 400;
-    font-size: 1.41vw;
-    line-height: 1.72vw;
-    margin: 0;
-    margin-top: 1.25vw;
+  font-weight: 400;
+  font-size: 1.41vw;
+  line-height: 1.72vw;
+  margin: 0;
+  margin-top: 1.25vw;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 @media (max-width: 500px) {
 
-    .profile__caption {
-        font-size: 14px;
-        line-height: 16.94px;
-        margin-top: 14px;
-    }
+  .profile__caption {
+    font-size: 14px;
+    line-height: 16.94px;
+    margin-top: 14px;
+  }
 
 }
