@@ -1,6 +1,6 @@
 .popup__button-close {
   border: none;
-  background-image: url(/images/button-close.svg);
+  background-image: url(../../../images/button-close.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-color: transparent;
