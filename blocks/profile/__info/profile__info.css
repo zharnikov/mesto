@@ -5,6 +5,16 @@
   margin-left: 2.34vw;
 }
 
+@media (min-width: 1281px) {
+
+  .profile__info {
+    max-width: 294px;
+    margin-top: 22px;
+    margin-left: 30px;
+  }
+
+}
+
 @media (max-width: 500px) {
 
   .profile__info {

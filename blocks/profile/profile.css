@@ -5,6 +5,16 @@
   display: flex;
 }
 
+@media (min-width: 1281px) {
+
+  .profile {
+    max-width: 880px;
+    margin-top: 40px;
+    display: flex;
+  }
+
+}
+
 @media (max-width: 500px) {
 
   .profile {

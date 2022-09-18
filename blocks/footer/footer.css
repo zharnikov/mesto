@@ -5,6 +5,16 @@
   margin-bottom: 4.69vw;
 }
 
+@media (min-width: 1281px) {
+
+  .footer {
+    max-width: 880px;
+    margin-top: 67px;
+    margin-bottom: 60px;
+  }
+
+}
+
 @media (max-width: 500px) {
 
   .footer {

@@ -9,6 +9,16 @@
   overflow: hidden;
 }
 
+@media (min-width: 1281px) {
+
+  .profile__caption {
+    font-size: 18px;
+    line-height: 21.78px;
+    margin-top: 16px;
+  }
+
+}
+
 @media (max-width: 500px) {
 
   .profile__caption {

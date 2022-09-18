@@ -8,6 +8,14 @@
   border-radius: 0 0 10px 10px;
 }
 
+@media (min-width: 1281px) {
+
+  .element__caption {
+    padding: 25px 15px 31px 21px;
+  }
+
+}
+
 @media (max-width: 845px) {
 
   .element__caption {

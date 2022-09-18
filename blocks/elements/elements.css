@@ -9,6 +9,15 @@
   row-gap: 20px;
 }
 
+@media (min-width: 1281px) {
+
+  .elements {
+    max-width: 880px;
+    margin-top: 51px;
+  }
+
+}
+
 @media (max-width: 845px) {
 
   .elements {

@@ -3,6 +3,15 @@
   margin-bottom: 3.20vw;
 }
 
+@media (min-width: 1281px) {
+
+  .logo {
+    max-width: 142px;
+    margin-bottom: 41px;
+  }
+
+}
+
 @media (max-width: 500px) {
 
   .logo {

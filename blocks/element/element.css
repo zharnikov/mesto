@@ -4,6 +4,14 @@
   margin: 0;
 }
 
+@media (min-width: 1281px) {
+
+  .element {
+    min-height: 361px;
+  }
+
+}
+
 @media (max-width: 845px) {
 
   .element {
